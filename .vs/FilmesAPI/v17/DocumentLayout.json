@@ -7,40 +7,48 @@
       "RelativeMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\controllers\\filmecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\filmesapi\\filmesapi\\profiles\\filmeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\profiles\\filmeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\filmesapi\\filmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\filmesapi\\filmesapi\\data\\dtos\\readfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\data\\dtos\\readfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\filmesapi\\filmesapi\\data\\dtos\\createfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\data\\dtos\\createfilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\filmesapi\\filmesapi\\migrations\\filmecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\migrations\\filmecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\filmesapi\\filmesapi\\data\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\data\\filmecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\filmesapi\\filmesapi\\profiles\\filmeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\profiles\\filmeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\filmesapi\\filmesapi\\data\\dtos\\updatefilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\data\\dtos\\updatefilmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\filmesapi\\filmesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\filmesapi\\filmesapi\\filmesapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\filmesapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\filmesapi\\filmesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\filmesapi\\filmesapi\\migrations\\filmecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\migrations\\filmecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\filmesapi\\filmesapi\\migrations\\20250724182126_criandotabeladefilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\migrations\\20250724182126_criandotabeladefilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\filmesapi\\filmesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\filmesapi\\filmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\filmesapi\\filmesapi\\filmesapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|solutionrelative:filmesapi\\filmesapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8708DE43-B6AA-403C-93E3-0C67A1AB3AB0}|FilmesAPI\\FilmesAPI.csproj|c:\\users\\geloq\\desktop\\mine\\projetosalura\\forma\u00E7\u00E3o net\\filmesapi\\filmesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -64,7 +72,7 @@
               "RelativeDocumentMoniker": "FilmesAPI\\Controllers\\FilmeController.cs",
               "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\Controllers\\FilmeController.cs",
               "RelativeToolTip": "FilmesAPI\\Controllers\\FilmeController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAswBQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T17:47:34.837Z",
               "IsPinned": true,
@@ -73,19 +81,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ReadFilmeDto.cs",
+              "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\Data\\Dtos\\ReadFilmeDto.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Data\\Dtos\\ReadFilmeDto.cs",
+              "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\Data\\Dtos\\ReadFilmeDto.cs",
+              "RelativeToolTip": "FilmesAPI\\Data\\Dtos\\ReadFilmeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T21:39:07.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "FilmeProfile.cs",
               "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\Profiles\\FilmeProfile.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Profiles\\FilmeProfile.cs",
               "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\Profiles\\FilmeProfile.cs",
               "RelativeToolTip": "FilmesAPI\\Profiles\\FilmeProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T20:48:22.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CreateFilmeDto.cs",
               "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\Data\\Dtos\\CreateFilmeDto.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Data\\Dtos\\CreateFilmeDto.cs",
@@ -98,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "FilmeContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\Migrations\\FilmeContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Migrations\\FilmeContextModelSnapshot.cs",
@@ -111,32 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250724182126_CriandoTabelaDeFilme.cs",
-              "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\Migrations\\20250724182126_CriandoTabelaDeFilme.cs",
-              "RelativeDocumentMoniker": "FilmesAPI\\Migrations\\20250724182126_CriandoTabelaDeFilme.cs",
-              "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\Migrations\\20250724182126_CriandoTabelaDeFilme.cs",
-              "RelativeToolTip": "FilmesAPI\\Migrations\\20250724182126_CriandoTabelaDeFilme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T18:21:27.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FilmesAPI",
-              "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
-              "RelativeDocumentMoniker": "FilmesAPI\\FilmesAPI.csproj",
-              "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
-              "RelativeToolTip": "FilmesAPI\\FilmesAPI.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-24T18:00:59.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "FilmeContext.cs",
               "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\Data\\FilmeContext.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Data\\FilmeContext.cs",
@@ -149,7 +145,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\Program.cs",
+              "RelativeToolTip": "FilmesAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T18:25:06.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateFilmeDto.cs",
+              "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\Data\\Dtos\\UpdateFilmeDto.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Data\\Dtos\\UpdateFilmeDto.cs",
+              "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\Data\\Dtos\\UpdateFilmeDto.cs",
+              "RelativeToolTip": "FilmesAPI\\Data\\Dtos\\UpdateFilmeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T20:59:52.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250724182126_CriandoTabelaDeFilme.cs",
+              "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\Migrations\\20250724182126_CriandoTabelaDeFilme.cs",
+              "RelativeDocumentMoniker": "FilmesAPI\\Migrations\\20250724182126_CriandoTabelaDeFilme.cs",
+              "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\Migrations\\20250724182126_CriandoTabelaDeFilme.cs",
+              "RelativeToolTip": "FilmesAPI\\Migrations\\20250724182126_CriandoTabelaDeFilme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:21:27.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Filme.cs",
               "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\Models\\Filme.cs",
               "RelativeDocumentMoniker": "FilmesAPI\\Models\\Filme.cs",
@@ -162,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\appsettings.json",
               "RelativeDocumentMoniker": "FilmesAPI\\appsettings.json",
@@ -175,20 +210,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\Program.cs",
-              "RelativeDocumentMoniker": "FilmesAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\Program.cs",
-              "RelativeToolTip": "FilmesAPI\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T18:25:06.142Z",
+              "DocumentIndex": 11,
+              "Title": "FilmesAPI",
+              "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+              "RelativeDocumentMoniker": "FilmesAPI\\FilmesAPI.csproj",
+              "ToolTip": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+              "RelativeToolTip": "FilmesAPI\\FilmesAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-24T18:00:59.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\geloq\\Desktop\\Mine\\ProjetosAlura\\Forma\u00E7\u00E3o net\\FilmesAPI\\FilmesAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "FilmesAPI\\Properties\\launchSettings.json",
