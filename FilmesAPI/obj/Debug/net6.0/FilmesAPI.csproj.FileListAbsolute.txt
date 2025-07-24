@@ -49,3 +49,5 @@ C:\Users\geloq\Desktop\Mine\ProjetosAlura\Formação net\FilmesAPI\FilmesAPI\bin
 C:\Users\geloq\Desktop\Mine\ProjetosAlura\Formação net\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\geloq\Desktop\Mine\ProjetosAlura\Formação net\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\geloq\Desktop\Mine\ProjetosAlura\Formação net\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\geloq\Desktop\Mine\ProjetosAlura\Formação net\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FilmesAPI.xml
+C:\Users\geloq\Desktop\Mine\ProjetosAlura\Formação net\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.xml
