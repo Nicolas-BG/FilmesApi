@@ -33,3 +33,4 @@ C:\Users\geloq\Desktop\Mine\ProjetosAlura\Formação net\FilmesAPI\FilmesAPI\obj
 C:\Users\geloq\Desktop\Mine\ProjetosAlura\Formação net\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.pdb
 C:\Users\geloq\Desktop\Mine\ProjetosAlura\Formação net\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.genruntimeconfig.cache
 C:\Users\geloq\Desktop\Mine\ProjetosAlura\Formação net\FilmesAPI\FilmesAPI\obj\Debug\net6.0\ref\FilmesAPI.dll
+C:\Users\geloq\Desktop\Mine\ProjetosAlura\Formação net\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.sourcelink.json

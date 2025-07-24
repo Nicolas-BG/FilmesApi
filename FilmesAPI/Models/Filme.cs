@@ -20,6 +20,5 @@ public class Filme
     [Required (ErrorMessage = "A duração do filme é obrigatória.")]
     [Range(70, 600, ErrorMessage = "A duração do filme deve estar entre 70 e 600 minutos.")]
     public int Duracao { get; set; }
-
-
+    public int Id { get; set; }
 }
