@@ -24,4 +24,5 @@ public class Filme
     [Key]
     [Required]
     public int Id { get; set; }
+    public virtual ICollection<Sessao> Sessoes { get; set; }
 }
