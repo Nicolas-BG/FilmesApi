@@ -46,5 +46,28 @@ namespace FilmesApi.Controllers
             }
             return NotFound();
         }
+
+
+        //Separador do detailed
+
+
+        [HttpGet("detailed")]
+        public IEnumerable<ReadDetailedSessaoDto> RecuperaSessoesDetailed()
+        {
+            return _mapper.Map<List<ReadDetailedSessaoDto>>(_context.Sessoes.ToList());
+        }
+
+        [HttpGet("detailed/{filmeId}/{cinemaId}")]
+        public IActionResult RecuperaSessoesPorIdDetailed(int filmeId, int cinemaId)
+        {
+            Sessao sessao = _context.Sessoes.FirstOrDefault(sessao => sessao.FilmeId == filmeId && sessao.CinemaId == cinemaId);
+            if (sessao != null)
+            {
+                ReadDetailedSessaoDto sessaoDto = _mapper.Map<ReadDetailedSessaoDto>(sessao);
+
+                return Ok(sessaoDto);
+            }
+            return NotFound();
+        }
     }
 }

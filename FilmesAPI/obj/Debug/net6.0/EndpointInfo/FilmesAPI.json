@@ -44,6 +44,16 @@
         "tags": [
           "Cinema"
         ],
+        "parameters": [
+          {
+            "name": "enderecoId",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
         "responses": {
           "200": {
             "description": "Success",
@@ -386,6 +396,13 @@
               "format": "int32",
               "default": 50
             }
+          },
+          {
+            "name": "nomeCinema",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
           }
         ],
         "responses": {
@@ -670,6 +687,76 @@
           }
         }
       }
+    },
+    "/Sessao/detailed": {
+      "get": {
+        "tags": [
+          "Sessao"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ReadDetailedSessaoDto"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ReadDetailedSessaoDto"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ReadDetailedSessaoDto"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/Sessao/detailed/{filmeId}/{cinemaId}": {
+      "get": {
+        "tags": [
+          "Sessao"
+        ],
+        "parameters": [
+          {
+            "name": "filmeId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "cinemaId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
     }
   },
   "components": {
@@ -807,6 +894,32 @@
             "items": {
               "$ref": "#/components/schemas/ReadSessaoDto"
             },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ReadDetailedSessaoDto": {
+        "type": "object",
+        "properties": {
+          "filmeId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "tituloFilme": {
+            "type": "string",
+            "nullable": true
+          },
+          "diretorFilme": {
+            "type": "string",
+            "nullable": true
+          },
+          "cinemaId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nomeCinema": {
+            "type": "string",
             "nullable": true
           }
         },

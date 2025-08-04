@@ -2,11 +2,8 @@
 {
     public class ReadSessaoDto
     {
-        public int FilmeId { get; set; }
-
-        //public ReadFilmeDto Filme { get; set; }
+        public int FilmeId { get; set; }        
         public int CinemaId { get; set; }
 
-        //public Str ReadCinemaDto Cinema { get; set; }
     }
 }

@@ -1,19 +1,15 @@
 ﻿using AutoMapper;
-using FilmesAPI.Data.Dtos;
 using FilmesAPI.Models;
+using FilmesAPI.Data.Dtos;
 
-namespace FilmesAPI.Profiles
+public class SessaoProfile : Profile
 {
-    public class SessaoProfile : Profile
+    public SessaoProfile()
     {
-        public SessaoProfile()
-        {
-            CreateMap<CreateSessaoDto, Sessao>();
-            CreateMap<Sessao, ReadSessaoDto>()/*
-                .ForMember(sessaoDto => sessaoDto.Filme,
-                opt => opt.MapFrom(sessao => sessao.Filme))
-                .ForMember(sessaoDto => sessaoDto.Cinema,
-                opt => opt.MapFrom(sessao => sessao.Cinema))*/;
-        }
+        CreateMap<Sessao, ReadSessaoDto>();
+        CreateMap<Sessao, ReadDetailedSessaoDto>()
+            .ForMember(dto => dto.TituloFilme, opt => opt.MapFrom(src => src.Filme.Titulo))
+            .ForMember(dto => dto.DiretorFilme, opt => opt.MapFrom(src => src.Filme.Diretor))
+            .ForMember(dto => dto.NomeCinema, opt => opt.MapFrom(src => src.Cinema.Nome));
     }
 }
